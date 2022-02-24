@@ -2,9 +2,10 @@ This folder contains information about the text pre-processing steps of the Spid
 Data :
 
 Download the data from the Spider official website https://yale-lily.github.io/spider
-Data Content and Format
-Question, SQL, and Parsed SQL
-Each file intrain.json and dev.json contains the following fields:
+
+
+Data Content and Format Question, SQL, and Parsed SQL
+Each file in train.json,dev.json, and train_others.json contains the following fields:
 
 question: the natural language question
 question_toks: the natural language question tokens
