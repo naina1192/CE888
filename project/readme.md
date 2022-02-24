@@ -13,6 +13,8 @@ db_id: the database id to which this question is addressed.
 query: the SQL query corresponding to the question.
 query_toks: the SQL query tokens corresponding to the question.
 sql: parsed results of this SQL query using process_sql.py. Please refer to parsed_sql_examples.sql in thepreprocess directory for the detailed documentation.
+
+
 Tables
 tables.json contains the following information for each database:
 
