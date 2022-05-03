@@ -4,6 +4,9 @@ This section describes the end-to-end modelling steps performed for the Sequence
 DSDM_SEQ_TO_SEQ_Assignment_2.ipynb - is a basic seq to seq model built using the Spyder dataset.The model is trained and validated on the first 2000 records from training file of Spyder dataset. Some translation examples have been added at the end of the code explaining the effectiveness of the model
 
 
+Download the data from the Spider official website https://yale-lily.github.io/spider
+
+
 
 Pre-processing steps performed:
 
